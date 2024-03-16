@@ -11,3 +11,9 @@
 #### PROF. HUGO TLAXHUETL
 
 En esta asignatura el alumno elaborará ejercicios variados de matemáticas
+
+### ALGEBRA
+
+#### PROF. ROGELIO TREJO
+
+En esta materia se revisarán los principios algebráicos que se aplican en informática
