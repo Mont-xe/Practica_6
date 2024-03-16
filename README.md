@@ -29,3 +29,9 @@ Fundamentos de código y programación
 #### PROF. HUGO TLAXHUETL
 
 En esta asignatura el alumno elaborará ejercicios variados de matemáticas
+
+### PROGRAMACION
+
+#### PROF. JONATHAN MIRANDA
+
+Fundamentos de código y programación
