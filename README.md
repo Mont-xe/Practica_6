@@ -17,3 +17,15 @@ En esta asignatura el alumno elaborará ejercicios variados de matemáticas
 #### PROF. ROGELIO TREJO
 
 En esta materia se revisarán los principios algebráicos que se aplican en informática
+
+### PROGRAMACION
+
+#### PROF. JONATHAN MIRANDA
+
+Fundamentos de código y programación
+
+### MATEMATICAS
+
+#### PROF. HUGO TLAXHUETL
+
+En esta asignatura el alumno elaborará ejercicios variados de matemáticas
